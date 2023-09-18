@@ -1,0 +1,14 @@
+{
+  "name": "AudioSpace - Audio Editor",
+  "short_name": "AudioSpace - Audio Editor",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ]
+}
